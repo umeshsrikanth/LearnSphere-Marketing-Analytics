@@ -1,0 +1,51 @@
+lead_id,enrolment_date,course,fee_paid,discount,refund
+LD001,2026-07-23,Full Stack Development,16045.52,6499.28,No
+LD002,2025-04-26,Full Stack Development,32090.55,814.49,Yes
+LD004,2025-07-15,Digital Marketing,45096.59,5523.41,No
+LD005,2025-05-20,Web Development,22355.31,1351.78,No
+LD006,2026-03-15,Full Stack Development,46004.15,5163.74,No
+LD007,2026-07-29,Data Analytics,51862.38,1688.22,No
+LD009,2026-05-04,Web Development,39079.21,4642.42,No
+LD011,2025-06-17,Web Development,55863.1,7212.97,No
+LD013,2025-07-01,Full Stack Development,55333.23,7462.77,Yes
+LD014,2026-07-13,Digital Marketing,11843.94,5062.03,No
+LD015,2026-03-15,Full Stack Development,25819.64,3899.28,Yes
+LD016,2025-07-13,Digital Marketing,43552.82,1494.69,No
+LD018,2025-11-29,Python Programming,15534.49,5338.56,Yes
+LD020,2025-10-06,Data Analytics,18306.42,7240.05,No
+LD021,2026-09-01,Digital Marketing,39854.76,5877.73,No
+LD022,2026-07-02,Full Stack Development,35434.67,1277.34,No
+LD025,2025-11-20,Web Development,36834.33,446.72,No
+LD026,2025-08-18,Data Analytics,43815.31,5156.34,No
+LD027,2026-06-11,Data Analytics,28685.71,4169.1,No
+LD031,2026-05-27,Python Programming,15002.65,3373.51,No
+LD037,2025-12-10,Python Programming,15366.64,6985.8,No
+LD040,2025-03-20,Python Programming,52773.59,1687.73,No
+LD041,2025-11-02,Digital Marketing,58522.0,6687.0,No
+LD042,2025-07-11,Full Stack Development,49140.51,7020.33,Yes
+LD044,2026-09-22,Digital Marketing,52402.54,7981.59,No
+LD046,2025-03-26,Python Programming,56402.58,7015.56,No
+LD047,2026-09-21,Python Programming,11698.41,4297.3,No
+LD048,2025-06-20,Data Analytics,22157.02,4035.06,No
+LD050,2026-04-16,Full Stack Development,47082.59,5998.8,No
+LD054,2026-10-01,Python Programming,33825.39,1978.85,No
+LD058,2026-05-28,Full Stack Development,27823.84,276.58,No
+LD059,2025-09-19,Full Stack Development,26568.45,7322.44,No
+LD060,2025-10-02,Data Analytics,36610.34,3958.52,No
+LD062,2026-09-04,Digital Marketing,50114.64,7235.79,Yes
+LD065,2026-06-15,Digital Marketing,27542.02,2258.6,No
+LD067,2025-03-05,Full Stack Development,19835.52,875.44,No
+LD070,2026-07-23,Python Programming,32015.32,1089.34,No
+LD071,2025-04-03,Web Development,54076.44,2526.09,No
+LD073,2026-08-02,Data Analytics,41954.68,7470.85,No
+LD075,2026-07-24,Python Programming,53372.98,1425.1,No
+LD077,2026-01-27,Full Stack Development,27449.1,190.94,Yes
+LD078,2025-03-05,Digital Marketing,49846.07,4662.14,No
+LD080,2025-05-19,Python Programming,27979.58,5244.86,No
+LD081,2025-12-07,Python Programming,13174.3,1264.93,Yes
+LD082,2026-05-14,Data Analytics,48765.65,5750.2,No
+LD085,2025-04-06,Digital Marketing,58961.62,1384.08,Yes
+LD086,2025-01-14,Full Stack Development,39410.48,2569.49,No
+LD091,2025-02-22,Digital Marketing,40514.75,6985.5,No
+LD093,2026-05-22,Data Analytics,48063.26,7166.69,No
+LD098,2025-11-24,Digital Marketing,55401.83,3008.1,Yes

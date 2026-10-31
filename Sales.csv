@@ -1,0 +1,101 @@
+lead_id,counsellor_id,call_attempts,demo_attended,lead_status
+LD001,CN002,2,Yes,Enrolled
+LD002,CN010,7,No,Enrolled
+LD003,CN009,6,Yes,Qualified
+LD004,CN004,6,Yes,Enrolled
+LD005,CN005,3,Yes,Enrolled
+LD006,CN005,7,Yes,Enrolled
+LD007,CN005,3,Yes,Enrolled
+LD008,CN002,3,No,Lost
+LD009,CN008,5,Yes,Enrolled
+LD010,CN005,1,Yes,Not Interested
+LD011,CN008,3,Yes,Enrolled
+LD012,CN007,3,No,Follow-up
+LD013,CN007,1,Yes,Enrolled
+LD014,CN002,2,Yes,Enrolled
+LD015,CN005,8,Yes,Enrolled
+LD016,CN004,8,Yes,Enrolled
+LD017,CN006,1,No,Lost
+LD018,CN006,6,Yes,Enrolled
+LD019,CN005,7,No,Not Interested
+LD020,CN006,6,Yes,Enrolled
+LD021,CN009,1,No,Enrolled
+LD022,CN003,6,No,Enrolled
+LD023,CN003,3,No,Follow-up
+LD024,CN009,1,No,Not Interested
+LD025,CN005,3,Yes,Enrolled
+LD026,CN003,4,Yes,Enrolled
+LD027,CN001,3,Yes,Enrolled
+LD028,CN002,3,No,Follow-up
+LD029,CN002,3,No,Follow-up
+LD030,CN010,1,Yes,Qualified
+LD031,CN006,1,Yes,Enrolled
+LD032,CN001,3,No,Not Interested
+LD033,CN002,8,No,Lost
+LD034,CN005,8,No,Not Interested
+LD035,CN004,3,No,Follow-up
+LD036,CN007,2,No,Lost
+LD037,CN007,3,Yes,Enrolled
+LD038,CN010,6,No,Lost
+LD039,CN008,2,No,Follow-up
+LD040,CN010,7,No,Enrolled
+LD041,CN002,7,Yes,Enrolled
+LD042,CN002,4,Yes,Enrolled
+LD043,CN010,5,No,Follow-up
+LD044,CN010,3,Yes,Enrolled
+LD045,CN006,7,Yes,Follow-up
+LD046,CN003,4,Yes,Enrolled
+LD047,CN002,2,Yes,Enrolled
+LD048,CN008,6,Yes,Enrolled
+LD049,CN009,4,No,Qualified
+LD050,CN004,2,Yes,Enrolled
+LD051,CN005,8,Yes,Follow-up
+LD052,CN008,1,No,Lost
+LD053,CN010,2,Yes,Lost
+LD054,CN004,7,Yes,Enrolled
+LD055,CN008,8,No,Lost
+LD056,CN005,8,Yes,Not Interested
+LD057,CN009,5,Yes,Lost
+LD058,CN005,1,Yes,Enrolled
+LD059,CN002,7,Yes,Enrolled
+LD060,CN002,8,Yes,Enrolled
+LD061,CN002,1,No,Lost
+LD062,CN005,5,Yes,Enrolled
+LD063,CN005,1,Yes,Lost
+LD064,CN002,6,Yes,Lost
+LD065,CN001,2,Yes,Enrolled
+LD066,CN003,1,No,Follow-up
+LD067,CN007,7,Yes,Enrolled
+LD068,CN002,7,No,Follow-up
+LD069,CN009,3,No,Not Interested
+LD070,CN010,4,Yes,Enrolled
+LD071,CN002,3,Yes,Enrolled
+LD072,CN007,5,Yes,Qualified
+LD073,CN008,3,Yes,Enrolled
+LD074,CN003,8,No,Not Interested
+LD075,CN009,6,Yes,Enrolled
+LD076,CN007,4,Yes,Lost
+LD077,CN008,3,Yes,Enrolled
+LD078,CN005,7,No,Enrolled
+LD079,CN008,7,No,Follow-up
+LD080,CN008,8,No,Enrolled
+LD081,CN007,4,Yes,Enrolled
+LD082,CN007,7,Yes,Enrolled
+LD083,CN010,7,No,Lost
+LD084,CN002,4,No,Follow-up
+LD085,CN005,3,Yes,Enrolled
+LD086,CN008,8,Yes,Enrolled
+LD087,CN007,8,Yes,Not Interested
+LD088,CN004,1,Yes,Lost
+LD089,CN008,2,No,Not Interested
+LD090,CN010,5,Yes,Follow-up
+LD091,CN008,2,Yes,Enrolled
+LD092,CN002,8,No,Not Interested
+LD093,CN010,5,Yes,Enrolled
+LD094,CN003,5,No,Follow-up
+LD095,CN008,5,No,Follow-up
+LD096,CN005,3,Yes,Follow-up
+LD097,CN010,3,Yes,Not Interested
+LD098,CN008,8,Yes,Enrolled
+LD099,CN001,4,No,Follow-up
+LD100,CN007,7,Yes,Lost

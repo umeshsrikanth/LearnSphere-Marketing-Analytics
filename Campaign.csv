@@ -1,0 +1,101 @@
+campaign_id,channel,start_date,end_date,daily_budget,target_audience
+CMP001,Google Ads,2025-03-24,2025-05-05,4390,Students 18-24
+CMP002,Instagram,2026-03-30,2026-05-22,3161,Working Professionals
+CMP003,Google Ads,2025-12-23,2026-01-10,4574,Career Switchers
+CMP004,Instagram,2025-07-17,2025-08-20,4390,Graduates
+CMP005,WhatsApp,2025-02-18,2025-04-06,2706,Students 18-24
+CMP006,Facebook,2026-01-19,2026-02-04,1212,Graduates
+CMP007,Google Ads,2025-07-10,2025-08-26,3615,Career Switchers
+CMP008,Instagram,2026-04-15,2026-05-09,2179,Career Switchers
+CMP009,Facebook,2025-07-04,2025-08-04,2502,Working Professionals
+CMP010,WhatsApp,2025-12-17,2026-01-03,1296,Students 18-24
+CMP011,Facebook,2025-04-10,2025-06-04,981,Students 18-24
+CMP012,YouTube,2025-10-27,2025-12-16,2707,Career Switchers
+CMP013,Instagram,2025-02-10,2025-04-09,362,Career Switchers
+CMP014,Instagram,2026-02-21,2026-04-13,918,Graduates
+CMP015,Facebook,2025-02-20,2025-03-10,318,Graduates
+CMP016,Google Ads,2026-01-27,2026-02-20,1898,Students 18-24
+CMP017,Facebook,2026-02-20,2026-03-24,4406,Career Switchers
+CMP018,Facebook,2025-09-13,2025-11-10,4980,Students 18-24
+CMP019,YouTube,2026-03-12,2026-05-11,2308,Students 18-24
+CMP020,Instagram,2025-11-09,2025-12-08,4622,Graduates
+CMP021,WhatsApp,2026-04-18,2026-06-11,4056,Career Switchers
+CMP022,Google Ads,2026-02-12,2026-03-19,361,Career Switchers
+CMP023,Facebook,2026-05-12,2026-06-30,1266,Career Switchers
+CMP024,Google Ads,2025-02-04,2025-03-17,1935,Graduates
+CMP025,Instagram,2025-01-01,2025-02-26,736,Career Switchers
+CMP026,Instagram,2025-12-20,2026-02-18,4122,Career Switchers
+CMP027,WhatsApp,2026-01-31,2026-03-07,2113,Working Professionals
+CMP028,WhatsApp,2026-02-06,2026-04-03,4239,Students 18-24
+CMP029,Instagram,2026-03-22,2026-04-05,4230,Graduates
+CMP030,Google Ads,2025-08-06,2025-08-26,1776,Career Switchers
+CMP031,YouTube,2026-04-02,2026-04-18,557,Career Switchers
+CMP032,Instagram,2025-10-04,2025-11-28,3397,Working Professionals
+CMP033,Google Ads,2025-04-01,2025-05-23,785,Graduates
+CMP034,YouTube,2025-05-05,2025-05-28,3887,Working Professionals
+CMP035,Google Ads,2026-03-07,2026-04-12,3286,Students 18-24
+CMP036,WhatsApp,2025-12-22,2026-02-11,2197,Career Switchers
+CMP037,YouTube,2026-04-16,2026-05-28,2263,Working Professionals
+CMP038,Instagram,2026-06-15,2026-07-30,838,Graduates
+CMP039,Instagram,2026-03-02,2026-03-24,4772,Graduates
+CMP040,YouTube,2025-06-13,2025-07-04,3992,Working Professionals
+CMP041,Facebook,2025-11-01,2025-12-02,690,Students 18-24
+CMP042,WhatsApp,2025-09-10,2025-09-26,3754,Students 18-24
+CMP043,Google Ads,2025-05-23,2025-07-15,767,Career Switchers
+CMP044,Google Ads,2026-05-02,2026-06-28,2940,Career Switchers
+CMP045,YouTube,2026-06-19,2026-07-19,1236,Career Switchers
+CMP046,Instagram,2025-10-29,2025-11-12,3967,Graduates
+CMP047,Instagram,2025-04-20,2025-06-15,4844,Career Switchers
+CMP048,YouTube,2025-08-19,2025-09-08,4954,Students 18-24
+CMP049,YouTube,2025-08-25,2025-10-23,336,Graduates
+CMP050,Facebook,2025-12-31,2026-02-28,1337,Graduates
+CMP051,Google Ads,2026-05-24,2026-06-10,491,Working Professionals
+CMP052,Facebook,2025-01-17,2025-03-04,330,Graduates
+CMP053,Facebook,2025-02-03,2025-03-31,4868,Graduates
+CMP054,YouTube,2025-03-25,2025-05-04,3237,Working Professionals
+CMP055,WhatsApp,2025-01-15,2025-03-12,1167,Working Professionals
+CMP056,Instagram,2026-04-21,2026-05-26,1193,Graduates
+CMP057,YouTube,2025-06-28,2025-07-29,2396,Graduates
+CMP058,Facebook,2025-03-28,2025-05-07,4378,Students 18-24
+CMP059,WhatsApp,2025-01-29,2025-02-21,3906,Career Switchers
+CMP060,WhatsApp,2025-01-17,2025-02-21,3873,Career Switchers
+CMP061,YouTube,2026-04-23,2026-05-27,4199,Graduates
+CMP062,Instagram,2026-05-21,2026-06-07,2513,Working Professionals
+CMP063,Google Ads,2025-03-06,2025-04-11,1125,Graduates
+CMP064,Instagram,2026-02-16,2026-03-12,3988,Students 18-24
+CMP065,Facebook,2026-03-16,2026-05-02,2876,Working Professionals
+CMP066,Instagram,2026-06-18,2026-07-16,4741,Working Professionals
+CMP067,Google Ads,2026-05-30,2026-06-24,2299,Working Professionals
+CMP068,Google Ads,2026-02-19,2026-03-28,3701,Career Switchers
+CMP069,WhatsApp,2026-05-16,2026-06-07,432,Career Switchers
+CMP070,Facebook,2026-05-19,2026-06-20,1564,Graduates
+CMP071,YouTube,2025-05-19,2025-06-13,3811,Graduates
+CMP072,Google Ads,2025-07-08,2025-08-24,2458,Graduates
+CMP073,Instagram,2025-11-26,2025-12-20,3103,Career Switchers
+CMP074,WhatsApp,2026-02-17,2026-04-09,681,Working Professionals
+CMP075,Facebook,2025-10-27,2025-12-25,1080,Career Switchers
+CMP076,Facebook,2025-03-31,2025-05-20,3254,Graduates
+CMP077,Google Ads,2025-03-01,2025-04-27,1680,Working Professionals
+CMP078,YouTube,2026-03-26,2026-04-30,1851,Career Switchers
+CMP079,Facebook,2025-09-04,2025-09-28,4456,Working Professionals
+CMP080,Google Ads,2026-02-04,2026-03-08,949,Students 18-24
+CMP081,Facebook,2025-06-08,2025-07-01,2579,Working Professionals
+CMP082,YouTube,2025-04-15,2025-04-30,1405,Students 18-24
+CMP083,WhatsApp,2026-03-15,2026-04-13,1705,Students 18-24
+CMP084,Instagram,2025-04-11,2025-05-11,1775,Career Switchers
+CMP085,Google Ads,2026-04-20,2026-05-14,500,Working Professionals
+CMP086,Instagram,2025-04-03,2025-05-23,4110,Graduates
+CMP087,WhatsApp,2025-03-14,2025-04-13,1717,Working Professionals
+CMP088,Instagram,2026-03-24,2026-04-23,391,Career Switchers
+CMP089,Instagram,2025-02-28,2025-03-28,2572,Graduates
+CMP090,Google Ads,2025-12-29,2026-01-25,1084,Students 18-24
+CMP091,YouTube,2026-02-25,2026-03-19,4377,Career Switchers
+CMP092,Facebook,2025-06-03,2025-06-24,1543,Career Switchers
+CMP093,Google Ads,2025-03-12,2025-04-02,1042,Graduates
+CMP094,Facebook,2025-12-24,2026-02-05,4199,Working Professionals
+CMP095,Instagram,2026-02-12,2026-03-02,461,Students 18-24
+CMP096,WhatsApp,2026-01-10,2026-02-16,815,Career Switchers
+CMP097,Facebook,2026-03-18,2026-04-10,2012,Working Professionals
+CMP098,Google Ads,2026-01-12,2026-01-28,4930,Students 18-24
+CMP099,Instagram,2025-07-16,2025-08-24,2931,Graduates
+CMP100,Facebook,2026-06-28,2026-07-23,3983,Working Professionals

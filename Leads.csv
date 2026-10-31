@@ -1,0 +1,101 @@
+lead_id,lead_date,campaign_id,city,age_group,course_interest
+LD001,2026-07-03,CMP089,Srikakulam,18-20,Full Stack Development
+LD002,2025-04-10,CMP053,Srikakulam,26-30,Full Stack Development
+LD003,2026-07-20,CMP066,Srikakulam,18-20,Full Stack Development
+LD004,2025-06-30,CMP006,Visakhapatnam,31-35,Digital Marketing
+LD005,2025-04-23,CMP084,Vijayawada,26-30,Web Development
+LD006,2026-03-10,CMP038,Guntur,31-35,Full Stack Development
+LD007,2026-07-18,CMP089,Guntur,18-20,Data Analytics
+LD008,2025-08-15,CMP075,Guntur,36+,Web Development
+LD009,2026-04-13,CMP093,Parvathipuram,31-35,Web Development
+LD010,2026-05-24,CMP038,Parvathipuram,31-35,Full Stack Development
+LD011,2025-06-12,CMP038,Vizianagaram,36+,Web Development
+LD012,2025-07-03,CMP074,Tirupati,31-35,Python Programming
+LD013,2025-06-01,CMP094,Guntur,26-30,Full Stack Development
+LD014,2026-06-29,CMP022,Rajahmundry,36+,Digital Marketing
+LD015,2026-03-14,CMP036,Visakhapatnam,21-25,Full Stack Development
+LD016,2025-06-16,CMP089,Parvathipuram,36+,Digital Marketing
+LD017,2025-04-13,CMP093,Vizianagaram,21-25,Web Development
+LD018,2025-11-06,CMP058,Parvathipuram,21-25,Python Programming
+LD019,2025-07-03,CMP019,Parvathipuram,26-30,Data Analytics
+LD020,2025-10-03,CMP029,Vijayawada,36+,Data Analytics
+LD021,2026-08-16,CMP020,Parvathipuram,31-35,Digital Marketing
+LD022,2026-06-23,CMP068,Parvathipuram,36+,Full Stack Development
+LD023,2025-07-20,CMP046,Visakhapatnam,26-30,Digital Marketing
+LD024,2026-03-13,CMP099,Tirupati,36+,Python Programming
+LD025,2025-11-06,CMP031,Guntur,26-30,Web Development
+LD026,2025-08-10,CMP061,Vizianagaram,36+,Data Analytics
+LD027,2026-05-17,CMP071,Parvathipuram,36+,Data Analytics
+LD028,2026-04-01,CMP005,Rajahmundry,26-30,Python Programming
+LD029,2025-11-17,CMP095,Srikakulam,26-30,Web Development
+LD030,2025-01-31,CMP004,Visakhapatnam,31-35,Data Analytics
+LD031,2026-05-07,CMP072,Vizianagaram,21-25,Python Programming
+LD032,2026-02-27,CMP042,Guntur,18-20,Data Analytics
+LD033,2026-05-12,CMP095,Vijayawada,26-30,Python Programming
+LD034,2026-08-02,CMP002,Visakhapatnam,31-35,Digital Marketing
+LD035,2026-01-09,CMP032,Rajahmundry,26-30,Web Development
+LD036,2026-04-19,CMP097,Parvathipuram,18-20,Full Stack Development
+LD037,2025-11-17,CMP068,Srikakulam,18-20,Python Programming
+LD038,2026-04-07,CMP031,Rajahmundry,21-25,Digital Marketing
+LD039,2025-03-28,CMP055,Parvathipuram,18-20,Digital Marketing
+LD040,2025-03-13,CMP075,Tirupati,18-20,Python Programming
+LD041,2025-10-28,CMP086,Srikakulam,31-35,Digital Marketing
+LD042,2025-06-19,CMP018,Parvathipuram,21-25,Full Stack Development
+LD043,2026-04-06,CMP003,Vizianagaram,21-25,Python Programming
+LD044,2026-09-06,CMP049,Visakhapatnam,36+,Digital Marketing
+LD045,2026-03-13,CMP079,Visakhapatnam,26-30,Web Development
+LD046,2025-03-15,CMP059,Tirupati,26-30,Python Programming
+LD047,2026-09-09,CMP099,Visakhapatnam,26-30,Python Programming
+LD048,2025-06-14,CMP095,Vijayawada,36+,Data Analytics
+LD049,2025-04-07,CMP075,Rajahmundry,18-20,Digital Marketing
+LD050,2026-04-05,CMP069,Visakhapatnam,21-25,Full Stack Development
+LD051,2026-02-22,CMP043,Guntur,21-25,Web Development
+LD052,2025-09-27,CMP044,Vijayawada,18-20,Full Stack Development
+LD053,2025-06-20,CMP029,Rajahmundry,31-35,Web Development
+LD054,2026-09-01,CMP001,Rajahmundry,36+,Python Programming
+LD055,2025-02-05,CMP058,Rajahmundry,36+,Web Development
+LD056,2026-04-19,CMP010,Parvathipuram,26-30,Python Programming
+LD057,2025-07-29,CMP074,Srikakulam,36+,Digital Marketing
+LD058,2026-05-26,CMP031,Guntur,21-25,Full Stack Development
+LD059,2025-09-05,CMP099,Guntur,18-20,Full Stack Development
+LD060,2025-09-03,CMP012,Guntur,21-25,Data Analytics
+LD061,2025-01-24,CMP010,Tirupati,26-30,Python Programming
+LD062,2026-08-14,CMP095,Srikakulam,31-35,Digital Marketing
+LD063,2025-03-22,CMP019,Vijayawada,18-20,Python Programming
+LD064,2026-06-16,CMP054,Parvathipuram,31-35,Digital Marketing
+LD065,2026-06-12,CMP032,Vizianagaram,21-25,Digital Marketing
+LD066,2026-05-22,CMP019,Rajahmundry,26-30,Web Development
+LD067,2025-02-19,CMP008,Visakhapatnam,26-30,Full Stack Development
+LD068,2026-09-02,CMP093,Tirupati,26-30,Digital Marketing
+LD069,2025-03-21,CMP041,Vijayawada,18-20,Data Analytics
+LD070,2026-07-17,CMP070,Vizianagaram,36+,Python Programming
+LD071,2025-04-01,CMP024,Tirupati,31-35,Web Development
+LD072,2025-09-03,CMP053,Tirupati,36+,Full Stack Development
+LD073,2026-07-14,CMP009,Srikakulam,21-25,Data Analytics
+LD074,2026-06-19,CMP082,Rajahmundry,31-35,Data Analytics
+LD075,2026-07-14,CMP009,Guntur,18-20,Python Programming
+LD076,2025-12-21,CMP078,Guntur,18-20,Full Stack Development
+LD077,2026-01-06,CMP051,Visakhapatnam,31-35,Full Stack Development
+LD078,2025-02-17,CMP040,Vijayawada,31-35,Digital Marketing
+LD079,2025-10-26,CMP042,Guntur,18-20,Python Programming
+LD080,2025-04-23,CMP058,Srikakulam,31-35,Python Programming
+LD081,2025-12-04,CMP017,Srikakulam,18-20,Python Programming
+LD082,2026-05-03,CMP020,Vizianagaram,18-20,Data Analytics
+LD083,2025-11-06,CMP069,Srikakulam,31-35,Full Stack Development
+LD084,2026-02-27,CMP057,Parvathipuram,31-35,Python Programming
+LD085,2025-03-21,CMP006,Vizianagaram,31-35,Digital Marketing
+LD086,2025-01-04,CMP032,Tirupati,36+,Full Stack Development
+LD087,2025-09-21,CMP089,Guntur,31-35,Digital Marketing
+LD088,2025-09-10,CMP094,Rajahmundry,36+,Data Analytics
+LD089,2025-12-07,CMP024,Vijayawada,21-25,Full Stack Development
+LD090,2026-07-26,CMP045,Guntur,26-30,Web Development
+LD091,2025-02-08,CMP076,Vijayawada,18-20,Digital Marketing
+LD092,2026-04-07,CMP020,Srikakulam,36+,Web Development
+LD093,2026-05-14,CMP067,Vizianagaram,18-20,Data Analytics
+LD094,2025-08-16,CMP070,Rajahmundry,36+,Full Stack Development
+LD095,2026-01-12,CMP089,Vijayawada,21-25,Data Analytics
+LD096,2026-08-01,CMP087,Srikakulam,26-30,Full Stack Development
+LD097,2026-02-28,CMP064,Parvathipuram,18-20,Python Programming
+LD098,2025-11-17,CMP026,Tirupati,26-30,Digital Marketing
+LD099,2025-09-19,CMP063,Tirupati,36+,Full Stack Development
+LD100,2026-08-04,CMP003,Rajahmundry,26-30,Python Programming
